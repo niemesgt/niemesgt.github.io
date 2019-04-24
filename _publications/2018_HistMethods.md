@@ -1,5 +1,5 @@
 ---
-title: "Revisiting the Great Compression: Wage inequality in the United States, 1940-1960"
+title: "Revisiting the Great Compression: Wage inequality in the United States, 1940-1960 (with Taylor Jaworski)"
 collection: publications
 permalink: /publication/2018_HistMethods
 excerpt: 'This paper takes advantage of the newly available complete count of the 1940 census as well as the enlarged (and improved) samples of the 1950 and 1960 censuses for the United States to revisit the seminal work of Goldin and Margo (1992) on the Great Compression in the immediate aftermath of World War II.'
