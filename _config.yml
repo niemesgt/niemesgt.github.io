@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Greg Niemesh's Site"
 title_separator          : "-"
 name                     : &name "Gregory Niemesh"
 description              : &description "personal description"
