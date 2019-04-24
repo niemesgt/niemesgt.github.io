@@ -10,8 +10,8 @@ main:
   - title: "Working Papers"
     url: /workingpapers/
 
-  - title: "Teaching"
-    url: /teaching/    
+ # - title: "Teaching"
+  #  url: /teaching/    
 
   - title: "Recommendation Letters"
     url: /recletters/ 
