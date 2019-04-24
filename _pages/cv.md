@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV here](http://niemesgt.github.io/files/Niemesh_CV.pdf)
+
+
 Current Affiliations
 ======
 * Assistant Professor of Economics, Miami University, 2013-present
@@ -45,7 +48,8 @@ Honors and Fellowships
 * Richard K. Smucker Teaching Excellence Award: Outstanding Junior Professor, Farmer School of Business, 2017
 * Arthur H. Cole Grant in Aid, Economic History Association, 2014
 * John E. Rovensky Fellowship, University of Illinois Foundation, 2011-2012
-* Noel Dissertation Fellowship, Department of Economics, Vanderbilt University, 2011 College of Arts & Science Summer Research Award, Vanderbilt University, 2011
+* Noel Dissertation Fellowship, Department of Economics, Vanderbilt University, 2011 
+* College of Arts & Science Summer Research Award, Vanderbilt University, 2011
 * Kirk Dornbush Summer Research Grant, Vanderbilt University, 2009 
 * Graduate School Dissertation Enhancement Grant, Vanderbilt University, 2011
 * Household International Best Research Paper, Vanderbilt University, 2010
