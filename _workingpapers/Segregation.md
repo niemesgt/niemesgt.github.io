@@ -1,5 +1,5 @@
 ---
-title: "Residential Racial Segregation And Infant Health, 1970-2010", with Katharine Shester (Washington and Lee University)"
+title: "Residential Racial Segregation And Infant Health, 1970-2010, with Katharine Shester (Washington and Lee University)"
 collection: publications
 permalink: /publication/Segregation
 excerpt: 'We explore the relationship between racial residential segregation and birth weight for the period 1970-2010. A negative effect of segregation on black birth outcomes emerges only after 1980.'
