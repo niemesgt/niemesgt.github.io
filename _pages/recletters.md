@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-i><b>As a courtesy, you should ask me for a letter of recommendation at least three weeks before you need it. If currently in my course, inform me AS SOON AS POSSIBLE. I can then keep better track of our discussions and the quality of your work, noting details useful to include in a recommendation letter.</b> </i>
+<i><b>As a courtesy, you should ask me for a letter of recommendation at least three weeks before you need it. If currently in my course, inform me AS SOON AS POSSIBLE. I can then keep better track of our discussions and the quality of your work, noting details useful to include in a recommendation letter.</b> </i>
 <br />
 <br />
 For a Ph.D., I am happy to provide a letter of recommendation to any student who has passed a course with me with a grade of A- or better. Lower grades do not rule out a letter, but they should cause you to consider carefully whether I am in a position to make the best assessment of your academic potential. I'm happy to write letters for employment, law school, medical school, and Master's programs for students with a B or above in my courses.
@@ -39,8 +39,5 @@ In addition, for each letter of recommendation, you should also provide me with 
 <b>Phone:     (513) 529-2150</b><br />
 <b>email:     niemesgt@miamioh.edu</b> <br />
 
-<br />
-<br />
-</div>
 
   
