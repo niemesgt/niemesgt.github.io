@@ -44,6 +44,7 @@ Working Papers
   
 Honors and Fellowships
 ======
+* 2018 IPUMS USA Published Research Award Winner
 * Honors Faculty Member of the Year, Miami University Honors Program, 2018
 * Richard K. Smucker Teaching Excellence Award: Outstanding Junior Professor, Farmer School of Business, 2017
 * Arthur H. Cole Grant in Aid, Economic History Association, 2014
@@ -57,7 +58,8 @@ Honors and Fellowships
 
 Professional Activities Presentations of Research
 ======
-* 2018: Northwestern University, NBER-DAE Summer Institute. 2017: Dickinson College, Economic History Association Meetings.
+* 2018: Northwestern University, NBER-DAE Summer Institute. 
+* 2017: Dickinson College, Economic History Association Meetings.
 * 2016: ASSA Annual Meetings, NBER-DAE Spring Meetings, Population Association of America Annual Meetings, Social Science History Association Annual Meetings.
 * 2015: AALAC Conference: The economic history race, gender, and class; Stanford Institute for Theoretical Economics; Social Science History Association Meetings.
 * 2014: Cliometric Society Meetings; Economic History Association Meetings; Social Science History Association Meetings.
