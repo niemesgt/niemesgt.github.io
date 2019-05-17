@@ -1,9 +1,9 @@
 ---
-title: "Death in the Promised Land\: the Great Migration and Black Infant Mortality, with Katherine Eriksson (UC-Davis)"
+title: "Death in the Promised Land: the Great Migration and Black Infant Mortality, with Katherine Eriksson (UC-Davis)"
 collection: workingpapers
 permalink: /workingpapers/GreatMigration
 excerpt: 'We create a new dataset that links individual infant death certificates to parental characteristics to assess the impact of migration by parents to Northern cities on infant mortality. The new dataset allows the paper's key innovation, which is to control for selection into migration and detailed parental characteristics. Conditional on parents' pre-migration observable characteristics and county-of-origin fixed effects, we find that black infants were more likely to die in the North relative to their southern-born counterparts.'
-date: 2016-07-12
+date: 2019-05-12
 paperurl: 'http://niemesgt.github.io/files/SSRNid3071053.pdf'
 
 ---
