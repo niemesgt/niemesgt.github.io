@@ -43,7 +43,7 @@ Working Papers
   {% endfor %}</ul>
   
 Honors and Fellowships
-======s
+======
 * 2018 IPUMS USA Published Research Award Winner
 * Honors Faculty Member of the Year, Miami University Honors Program, 2018
 * Richard K. Smucker Teaching Excellence Award: Outstanding Junior Professor, Farmer School of Business, 2017
@@ -64,7 +64,7 @@ Professional Activities Presentations of Research
 * 2015: AALAC Conference: The economic history race, gender, and class; Stanford Institute for Theoretical Economics; Social Science History Association Meetings.
 * 2014: Cliometric Society Meetings; Economic History Association Meetings; Social Science History Association Meetings.
 * 2012: Stanford Institute for Theoretical Economics; Colgate University.
-* 2011: University of Michigan; UC-Davis; DePauw University 150th Anniversary Seminar Series; Economic History Association Meetings; Cliometric Society Annual Conference; NBER-DAE Sum- mer Institute Poster Session; Population Association of America Annual Meetings.
+* 2011: University of Michigan; UC-Davis; DePauw University 150th Anniversary Seminar Series; Economic History Association Meetings; Cliometric Society Annual Conference; NBER-DAE Summer Institute Poster Session; Population Association of America Annual Meetings.
 
 Referee
 ======
