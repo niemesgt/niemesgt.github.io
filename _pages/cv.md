@@ -43,8 +43,7 @@ Working Papers
   {% endfor %}</ul>
   
 Honors and Fellowships
-======
-* TEST3
+======s
 * 2018 IPUMS USA Published Research Award Winner
 * Honors Faculty Member of the Year, Miami University Honors Program, 2018
 * Richard K. Smucker Teaching Excellence Award: Outstanding Junior Professor, Farmer School of Business, 2017
