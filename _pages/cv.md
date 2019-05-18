@@ -56,8 +56,9 @@ Honors and Fellowships
 * Household International Best Research Paper, Vanderbilt University, 2010
 * Council of Economics Graduate Students Research Grant, 2010, 2011
 
-Professional Activities Presentations of Research
+Presentations of Research
 ======
+* 2019: Cliometric Society Meetings, NBER-DAE Summer Institute. 
 * 2018: Northwestern University, NBER-DAE Summer Institute. 
 * 2017: Dickinson College, Economic History Association Meetings.
 * 2016: ASSA Annual Meetings, NBER-DAE Spring Meetings, Population Association of America Annual Meetings, Social Science History Association Annual Meetings.
