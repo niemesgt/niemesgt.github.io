@@ -19,7 +19,6 @@ Current Affiliations
   
 Past Affiliations
 ======
-* Test
 * Senior Lecturer in Economics, Vanderbilt University, 2012-2013
 * Economist, U.S. Bureau of Labor Statistics, 2004-2007
 
@@ -45,7 +44,6 @@ Working Papers
   
 Honors and Fellowships
 ======
-* TeSt1
 * 2018 IPUMS USA Published Research Award Winner
 * Honors Faculty Member of the Year, Miami University Honors Program, 2018
 * Richard K. Smucker Teaching Excellence Award: Outstanding Junior Professor, Farmer School of Business, 2017
