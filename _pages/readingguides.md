@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Resources for Students"
-permalink: /resourcesforstudents/
+title: "Reading guides for class"
+permalink: /readingguides/
 author_profile: true
 redirect_from:
   - /resume
