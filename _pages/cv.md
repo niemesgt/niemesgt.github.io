@@ -14,11 +14,12 @@ redirect_from:
 
 Current Affiliations
 ======
-* Assistant Professor of Economics, Miami University, 2013-present
+* Associate Professor of Economics, Miami University, 2020-present
 * Faculty Research Fellow, NBER (DAE), 2017-present
-  
+
 Past Affiliations
 ======
+* Assistant Professor of Economics, Miami University, 2013-2020
 * Senior Lecturer in Economics, Vanderbilt University, 2012-2013
 * Economist, U.S. Bureau of Labor Statistics, 2004-2007
 
@@ -58,7 +59,7 @@ Honors and Fellowships
 
 Presentations of Research
 ======
-* 2019: Cliometric Society Meetings, NBER-DAE Summer Institute. 
+* 2019: Cliometric Society Meetings, NBER-DAE Summer Institute, Social Science History Association, Statistics Norway. 
 * 2018: Northwestern University, NBER-DAE Summer Institute. 
 * 2017: Dickinson College, Economic History Association Meetings.
 * 2016: ASSA Annual Meetings, NBER-DAE Spring Meetings, Population Association of America Annual Meetings, Social Science History Association Annual Meetings.
@@ -83,13 +84,12 @@ Teaching
 	
 Theses Advised
 =======
-* Jason Milliken, “Long-term Labor Market Effects of the 1943 Bengal Famine," 2015, M.A. Economics Exit Paper (supervisor)
-* Kelsey O’Flaherty, “Income Inequality and Fertility Choice," 2016, Honors Thesis, (supervisor)
-* Jackie Craig, “Posted Calorie Count Mandates Effectiveness to Reduce Obesity," 2015, USS project, (co-supervisor with Charles Moul)
-* Jackie Craig, “Intergenerational Mobility of Women in Early 20th Century United States," 2017, Honors Thesis and M.A. Economics Exit Paper (supervisor)
+* Jason Milliken, “Long-term Labor Market Effects of the 1943 Bengal Famine,” 2015, M.A. Economics Exit Paper (supervisor)
+* Kelsey O’Flaherty, “Income Inequality and Fertility Choice,” 2016, Honors Thesis, (supervisor)
+* Jackie Craig, “Posted Calorie Count Mandates Effectiveness to Reduce Obesity,” 2015, USS project, (co-supervisor with Charles Moul)
+* Jackie Craig, “Intergenerational Mobility of Women in Early 20th Century United States,” 2017, Honors Thesis and M.A. Economics Exit Paper (supervisor)
 * Drew Hussung, “How Concerned Should We Be When a Rural Obstetric Unit Closes Its Doors? Evidence from an Event Study,” 2018, M.A. Economics Exit Paper (supervisor)
-* Philip Sizemore, 2014, M.A. Economics Exit Paper (reader) 
-* Nathan Klyn, 2014, M.A. Economics Exit Paper (reader) 
-* Amber Staines, 2015, M.A Economics Exit Paper (reader) 
-* Chris Curme, 2016, M.A. Economics Exit Paper (reader) 
-* James Inlow, 2018, M.A. Economics Exit Paper (reader)
+* Madi Gregory, “The Political Economy of Physician Licensing: The Adoption of Pre-Medical College Requirements,” 2019, Honors Thesis (supervisor)
+* Eashwar Nagaraj, “Skilled Immigration and the Great Recession: A Panel Data Analysis,” 2019, Honors Thesis and M.A. Economics Exit Paper (supervisor)
+* Sarah Siegel, “Sisters in the Early 20th Century: The Effect of a Mother’s Childhood on the Health-Income Gradient,” 2020, Honors Thesis and M.A. Economics Exit Paper (supervisor)
+* Reader for M.A. Economics Exit Paper:  Philip Sizemore (2014), Nathan Klyn (2014), Amber Staines, (2015), Chris Curme (2016), James Inlow, (2018), Sara Rosomoff (2019), Harrison Fox (2020), Julia Bragg (2020).
