@@ -23,7 +23,6 @@ redirect_from:
 </ul>
 
 
-
 <i><b>Git and Github Resources</b> </i>
 <br />
 
@@ -32,6 +31,11 @@ redirect_from:
 </ul>
 
 
+<i><b>Stata Coding Resources</b> </i>
+<br />
 
+<ul>
+<li>Innovations for Poverty Action Stata Trainings: <a href="https://github.com/PovertyAction/IPA-Stata-Trainings">Github repository</a></li>
 
+</ul>
   
