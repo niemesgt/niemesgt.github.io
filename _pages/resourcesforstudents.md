@@ -14,11 +14,21 @@ redirect_from:
 <br />
 
 
+<i><b>Materials for thesis writers and RAs</b> </i>
+<br />
+
+
+<ul>
+<li>Gentzkow and Shapiro <i>Code and Data for the Social Sciences: A Practitioner's Guide<\i> <a href="https://niemesgt.github.io/files/GentzkowRothstein_CodeAndData.pdf">Link to PDF</a> <a href="http://web.stanford.edu/~gentzkow/research/CodeAndData.xhtml">HTML Version</a></li>
+</ul>
+
+
+
 <i><b>Git and Github Resources</b> </i>
 <br />
 
 <ul>
-<li>A Quick Introduction to Version Control with Git and GitHub: <a href="https://niemesgt.github.io/files/journal.pcbi.1004668.PDF">Link to PDF</a></li>
+<li>Shiro Kuriwaki's slide deck on <i>Git for Students in the Social Sciences<\i>: <a href="https://niemesgt.github.io/files/kuriwaki_github_handout.pdf">Link to PDF</a></li>
 </ul>
 
 
