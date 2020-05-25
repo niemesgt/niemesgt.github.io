@@ -22,7 +22,7 @@ redirect_from:
 
 <li><i><b>General Data Management</b> </i> </li>
 <ul>
-<li>Gentzkow and Shapiro Code and Data for the Social Sciences: A Practitioner's Guide <a href="https://niemesgt.github.io/files/GentzkowRothstein_CodeAndData.pdf">Link to PDF</a>   <a href="http://web.stanford.edu/~gentzkow/research/CodeAndData.xhtml">HTML Version</a></li>
+<li>Gentzkow and Shapiro Code and Data for the Social Sciences: A Practitioner's Guide <a href="https://niemesgt.github.io/files/GentzkowRothstein_CodeAndData.pdf">{Link to PDF}</a>   <a href="http://web.stanford.edu/~gentzkow/research/CodeAndData.xhtml">{HTML Version}</a></li>
 </ul>
 
 <li><i><b>Git and Github Resources</b> </i> </li>
