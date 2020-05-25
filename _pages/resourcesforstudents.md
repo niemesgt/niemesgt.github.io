@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-<a href="https://niemesgt.github.io/readingguides/"><i><b>How to read an academic paper for class (Reading Guides)</b> </i></a>
+<a href="https://niemesgt.github.io/readingguides/"><i><b>How to read an academic paper for class (Reading Guides)</b> </i> </a>
 <br />
 
 
