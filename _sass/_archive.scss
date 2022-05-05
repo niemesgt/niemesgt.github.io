@@ -79,9 +79,6 @@
     box-shadow: 0 0 10px rgba(#000, 0.25);
   }
 
-  .archive__item-title {
-    text-decoration: underline;
-  }
 }
 
 
@@ -120,8 +117,8 @@
   }
 
   .archive__item-title {
-    margin-top: 0.5em;
-    font-size: $type-size-5;
+    margin-top: 0.2em;
+    font-size: $type-size-7;
   }
 
   .archive__item-excerpt {
