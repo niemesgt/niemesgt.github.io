@@ -84,12 +84,15 @@ Teaching
 	
 Theses Advised
 =======
-* Jason Milliken, “Long-term Labor Market Effects of the 1943 Bengal Famine,” 2015, M.A. Economics Exit Paper (supervisor)
-* Kelsey O’Flaherty, “Income Inequality and Fertility Choice,” 2016, Honors Thesis, (supervisor)
+* Jason Milliken, “Long-term Labor Market Effects of the 1943 Bengal Famine,” 2015, M.A. Economics Exit Paper
+* Kelsey O’Flaherty, “Income Inequality and Fertility Choice,” 2016, Honors Thesis
 * Jackie Craig, “Posted Calorie Count Mandates Effectiveness to Reduce Obesity,” 2015, USS project, (co-supervisor with Charles Moul)
-* Jackie Craig, “Intergenerational Mobility of Women in Early 20th Century United States,” 2017, Honors Thesis and M.A. Economics Exit Paper (supervisor)
-* Drew Hussung, “How Concerned Should We Be When a Rural Obstetric Unit Closes Its Doors? Evidence from an Event Study,” 2018, M.A. Economics Exit Paper (supervisor)
-* Madi Gregory, “The Political Economy of Physician Licensing: The Adoption of Pre-Medical College Requirements,” 2019, Honors Thesis (supervisor)
-* Eashwar Nagaraj, “Skilled Immigration and the Great Recession: A Panel Data Analysis,” 2019, Honors Thesis and M.A. Economics Exit Paper (supervisor)
-* Sarah Siegel, “Sisters in the Early 20th Century: The Effect of a Mother’s Childhood on the Health-Income Gradient,” 2020, Honors Thesis and M.A. Economics Exit Paper (supervisor)
-* Reader for M.A. Economics Exit Paper:  Philip Sizemore (2014), Nathan Klyn (2014), Amber Staines, (2015), Chris Curme (2016), James Inlow, (2018), Sara Rosomoff (2019), Harrison Fox (2020), Julia Bragg (2020).
+* Jackie Craig, “Intergenerational Mobility of Women in Early 20th Century United States,” 2017, Honors Thesis and M.A. Economics Exit Paper
+* Drew Hussung, “How Concerned Should We Be When a Rural Obstetric Unit Closes Its Doors? Evidence from an Event Study,” 2018, M.A. Economics Exit Paper
+* Madi Gregory, “The Political Economy of Physician Licensing: The Adoption of Pre-Medical College Requirements,” 2019, Honors Thesis 
+* Eashwar Nagaraj, “Skilled Immigration and the Great Recession: A Panel Data Analysis,” 2019, Honors Thesis and M.A. Economics Exit Paper
+* Sarah Siegel, “Sisters in the Early 20th Century: The Effect of a Mother’s Childhood on the Health-Income Gradient,” 2020, Honors Thesis and M.A. Economics Exit Paper
+* Yanqing Zhao, “Estimating the Impact of Women's Education on the U.S. Suffrage Movement: An IV Approach,“ 2020, M.A. Economics Exit Paper
+* Emma LaGuardia, “Rationalizing Trends in Educational Assortative Mating over the Early 20th-Century United States,“ 2021, Honors Thesis
+* Ruku Pal,“Economic Effect of Sole Hospital Closure on Rural Community“, 2021, Honors Thesis
+* Emma LaGuardia, “The Community College Expansion Period,“ 2022,  M.A. Economics Exit Paper, (co-supervisor with Riley Acton)
