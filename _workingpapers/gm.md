@@ -2,6 +2,7 @@
 title: "Death in the Promised Land: the Great Migration and Black Infant Mortality, with Katherine Eriksson (UC-Davis)"
 collection: workingpapers
 permalink: /workingpapers/gm
+paperurl: 'http://niemesgt.github.io/files/SSRNid3071053.pdf'
 excerpt: ''
 date: 2016-12-07
 
