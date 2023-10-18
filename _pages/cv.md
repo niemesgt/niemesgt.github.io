@@ -15,11 +15,12 @@ redirect_from:
 Current Affiliations
 ======
 * Associate Professor of Economics, Miami University, 2020-present
-* Faculty Research Fellow, NBER (DAE), 2017-present
+* Research Associate, NBER (DAE), 2020-present
 
 Past Affiliations
 ======
 * Assistant Professor of Economics, Miami University, 2013-2020
+* Faculty Research Fellow, NBER (DAE), 2017-2020
 * Senior Lecturer in Economics, Vanderbilt University, 2012-2013
 * Economist, U.S. Bureau of Labor Statistics, 2004-2007
 
@@ -70,7 +71,7 @@ Presentations of Research
 
 Referee
 ======
-* American Economic Review, Explorations in Economic History, Journal of Economic History, Journal of Health Economics, Journal of Human Resources
+* American Economic Review, AER-Insights, Econometrica, Explorations in Economic History, Journal of Economic Behavior and Organization, Journal of Economic History, Journal of Health Economics, Journal of Human Resources, Quarterly Journal of Economics, Review of Economics and Statistics, Social Science History
 
 Professional Affiliations
 =======
@@ -92,7 +93,9 @@ Theses Advised
 * Madi Gregory, “The Political Economy of Physician Licensing: The Adoption of Pre-Medical College Requirements,” 2019, Honors Thesis 
 * Eashwar Nagaraj, “Skilled Immigration and the Great Recession: A Panel Data Analysis,” 2019, Honors Thesis and M.A. Economics Exit Paper
 * Sarah Siegel, “Sisters in the Early 20th Century: The Effect of a Mother’s Childhood on the Health-Income Gradient,” 2020, Honors Thesis and M.A. Economics Exit Paper
-* Yanqing Zhao, “Estimating the Impact of Women's Education on the U.S. Suffrage Movement: An IV Approach,“ 2020, M.A. Economics Exit Paper
+* Yanqing Zhao, “Estimating the Impact of Women's Education on the U.S. Suffrage Movement: An IV Approach,“ 2020, Masters Thesis
 * Emma LaGuardia, “Rationalizing Trends in Educational Assortative Mating over the Early 20th-Century United States,“ 2021, Honors Thesis
+* Karli Schivitz, 2021 Masters Thesis
 * Ruku Pal,“Economic Effect of Sole Hospital Closure on Rural Community“, 2021, Honors Thesis
 * Emma LaGuardia, “The Community College Expansion Period,“ 2022,  M.A. Economics Exit Paper, (co-supervisor with Riley Acton)
+* Brittany Lowe, , MA Thesis
