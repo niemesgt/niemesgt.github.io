@@ -80,22 +80,22 @@ Professional Affiliations
 Teaching 
 =======
 * Courses Taught
-	* Miami University: Intermediate Microeconomic Theory, Labor Economics, Principles of Microeconomics (Honors)
+	* Miami University: Intermediate Microeconomic Theory, Labor Economics, Principles of Microeconomics (Honors), Principles of Microeconomics, Game Theory and Strategy
 	* Vanderbilt University: Labor Economics, Economic Statistics, Seminar in Microeconomic Policy 
 	
 Theses Advised
 =======
-* Jason Milliken, “Long-term Labor Market Effects of the 1943 Bengal Famine,” 2015, M.A. Economics Exit Paper
+* Jason Milliken, “Long-term Labor Market Effects of the 1943 Bengal Famine,” 2015, MA Thesis
 * Kelsey O’Flaherty, “Income Inequality and Fertility Choice,” 2016, Honors Thesis
 * Jackie Craig, “Posted Calorie Count Mandates Effectiveness to Reduce Obesity,” 2015, USS project, (co-supervisor with Charles Moul)
-* Jackie Craig, “Intergenerational Mobility of Women in Early 20th Century United States,” 2017, Honors Thesis and M.A. Economics Exit Paper
-* Drew Hussung, “How Concerned Should We Be When a Rural Obstetric Unit Closes Its Doors? Evidence from an Event Study,” 2018, M.A. Economics Exit Paper
+* Jackie Craig, “Intergenerational Mobility of Women in Early 20th Century United States,” 2017, Honors Thesis and MA Thesis
+* Drew Hussung, “How Concerned Should We Be When a Rural Obstetric Unit Closes Its Doors? Evidence from an Event Study,” 2018, MA Thesis
 * Madi Gregory, “The Political Economy of Physician Licensing: The Adoption of Pre-Medical College Requirements,” 2019, Honors Thesis 
-* Eashwar Nagaraj, “Skilled Immigration and the Great Recession: A Panel Data Analysis,” 2019, Honors Thesis and M.A. Economics Exit Paper
-* Sarah Siegel, “Sisters in the Early 20th Century: The Effect of a Mother’s Childhood on the Health-Income Gradient,” 2020, Honors Thesis and M.A. Economics Exit Paper
+* Eashwar Nagaraj, “Skilled Immigration and the Great Recession: A Panel Data Analysis,” 2019, Honors Thesis and MA Thesis
+* Sarah Siegel, “Sisters in the Early 20th Century: The Effect of a Mother’s Childhood on the Health-Income Gradient,” 2020, Honors Thesis and MA Thesis
 * Yanqing Zhao, “Estimating the Impact of Women's Education on the U.S. Suffrage Movement: An IV Approach,“ 2020, Masters Thesis
 * Emma LaGuardia, “Rationalizing Trends in Educational Assortative Mating over the Early 20th-Century United States,“ 2021, Honors Thesis
-* Karli Schivitz, 2021 Masters Thesis
+* Karli Schivitz, “The Bump and Grind of Labor and Love: Assortative Matching Among Select Occupations From 1900 to 1940“, 2021 Masters Thesis
 * Ruku Pal,“Economic Effect of Sole Hospital Closure on Rural Community“, 2021, Honors Thesis
-* Emma LaGuardia, “The Community College Expansion Period,“ 2022,  M.A. Economics Exit Paper, (co-supervisor with Riley Acton)
-* Brittany Lowe, , MA Thesis
+* Emma LaGuardia, “The Community College Expansion Period,“ 2022,  MA Thesis, (co-supervisor with Riley Acton)
+* Brittany Lowe, “Commodity Price Shocks and Child Marriage: Evidence from Coffee Regions in East Africa“, 2023 MA Thesis
