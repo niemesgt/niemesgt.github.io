@@ -95,7 +95,8 @@ Theses Advised
 * Sarah Siegel, “Sisters in the Early 20th Century: The Effect of a Mother’s Childhood on the Health-Income Gradient,” 2020, Honors Thesis and MA Thesis
 * Yanqing Zhao, “Estimating the Impact of Women's Education on the U.S. Suffrage Movement: An IV Approach,“ 2020, Masters Thesis
 * Emma LaGuardia, “Rationalizing Trends in Educational Assortative Mating over the Early 20th-Century United States,“ 2021, Honors Thesis
-* Karli Schivitz, “The Bump and Grind of Labor and Love: Assortative Matching Among Select Occupations From 1900 to 1940“, 2021 Masters Thesis
-* Ruku Pal,“Economic Effect of Sole Hospital Closure on Rural Community“, 2021, Honors Thesis
+* Karli Schivitz, “The Bump and Grind of Labor and Love: Assortative Matching Among Select Occupations From 1900 to 1940,“ 2021 Masters Thesis
+* Ruku Pal,“Economic Effect of Sole Hospital Closure on Rural Communit,y“ 2021, Honors Thesis
 * Emma LaGuardia, “The Community College Expansion Period,“ 2022,  MA Thesis, (co-supervisor with Riley Acton)
+*Daria Sokholova, “ COVID-19 Employment Effects in Russia by Age, Gender, and Education,“ 2022 MA Thesis
 * Brittany Lowe, “Commodity Price Shocks and Child Marriage: Evidence from Coffee Regions in East Africa“, 2023 MA Thesis
