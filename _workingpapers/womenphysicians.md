@@ -1,7 +1,7 @@
 ---
-title: "Marriage and the Intergenerational Mobility of Women: Evidence from Marriage Certificates 1850-1920, with Katherine Eriksson, Myera Rashid, and Jacqueline Craig *(Under Review)*"
+title: "Shut Down and Shut Out: Women Physicians in the Era of Medical Education Reform, with Carolyn Moehling and Melissa Thomasson *(Under Review)*"
 collection: workingpapers
-paperurl: 'http://niemesgt.github.io/files/WomenMobilityMarriage.pdf'
+paperurl: ''
 excerpt: ''
-date: 2023-10-18
+date: 2026-2-5
 ---
